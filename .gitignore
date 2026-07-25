@@ -1,0 +1,4 @@
+*.o
+*.mod
+*.txt
+.DS_Store
